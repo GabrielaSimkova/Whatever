@@ -22,7 +22,7 @@ const optionsTeasing = [
   "Jak by sis mě položil na stůl?",
   "Jsi ochránce a dobyvatel mé važajny, vrrr.",
   "Ty chvíle, kdy tě musím očima prosit, abys mi ten svůj totálně ztopořenej penis zasunul na max...",
-  "Příště ti budu kouřit a ty se při tom budeš koukat na porno."
+  "Příště ti budu kouřit a ty se při tom budeš koukat na porno.."
   "Vzrušuje mě představa, jak přede mnou sedíš nahý, s tvrdým pérem, který ti v sexy šatech začnu kouřit. V šatech, pod kterými nemám kalhotky, takže bych si na tebe mohla rovnou sednout.",
 ];
 
